@@ -1,4 +1,4 @@
-# bank-account-fs-app
+# Othman_Benmalek_Systemes-Distribuees_TP6 :Architectures Micro-services
 
 ### Première Partie : Développer un micro-service
 ####  1) MIcro Service avec Web Service RESTFUL : 
